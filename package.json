@@ -1,0 +1,12 @@
+{
+  "name": "defi-yield-vault",
+  "version": "1.0.0",
+  "description": "ERC-4626 Yield Vault Implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.4",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
